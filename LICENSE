@@ -1,21 +1,29 @@
-MIT License
+OWNERDAY OUT LICENSE v1.0
+Copyright (c) 2026 Hamza Akcakaya (The Architect)
 
-Copyright (c) 2026 PACCAT
+TERMS AND CONDITIONS:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. ATTRIBUTION REQUIRED:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+In every project that uses the code of this software (GitHouse), in whole or in part,
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+the following statement MUST be included at the top or bottom of the LICENSE file of the relevant project:
+
+"For our license. Some of the codes were obtained by PACCAT."
+
+2. PRIVACY AND SHARING (OPEN/CLOSED SOURCE):
+
+Users are completely free to keep the source code of the projects in which they use this code open
+
+or closed (proprietary).
+
+3. COMMERCIAL USE:
+
+The software can be used in both paid and free projects. However, commercial presentation is prohibited unless the attribution (PACCAT) mentioned in Article 1 is added.
+
+4. INFRINGEMENT AND COPYRIGHT:
+
+In case of infringement of the above attribution clause (Article 1), the author
+(Hamza Akcakaya) reserves the right to initiate legal action for the closure (DMCA Takedown) of the relevant project (GitHub, Website, Store, etc.) on the grounds of copyright infringement.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND NO WARRANTY IS GIVEN.
