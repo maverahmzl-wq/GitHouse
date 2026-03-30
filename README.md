@@ -39,3 +39,8 @@ Settuping MSI
 
 EXE Install For:
 Adds/places it in the Windows folder.
+
+
+#GitHouse README.md
+* **_Completed_**
+* **End**
