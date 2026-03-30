@@ -32,15 +32,15 @@ githouse --get-c = Get latest Version C
 githouse --get-cs = Get latest Version C#
 
 ZIP Install For:
-C:\Windows\GitHouse_Extracted\(YourZipInstalledTheHere)
+* **C:\Windows\GitHouse_Extracted\(YourZipInstalledTheHere)**
 
 MSI Install For:
-Settuping MSI
+* **Settuping MSI**
 
 EXE Install For:
-Adds/places it in the Windows folder.
+* **Adds/places it in the Windows folder.**
 
+GitHouse README.md
 
-#GitHouse README.md
 * **_Completed_**
 * **End**
